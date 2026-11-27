@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets: never upload these
+.env
+
+# Data and models stay off GitHub
+data/
+models/
